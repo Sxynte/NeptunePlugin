@@ -22,7 +22,7 @@ public final class NeptunePlugin extends SimplePlugin {
 
 		int apples = 1241241;
 
-		System.out.println();
+		System.out.println("Modulo: " + (15 % 4));
 		System.out.println("[Neptune] Knock, Knock!");	//Prints: [Neptune] Knock, Knock!
 	}
 
